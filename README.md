@@ -1,7 +1,14 @@
 # dnshistory
-curl dnshistory API from securitytrails
+curl dnshistory API from securitytrails 
+<br/>
 Usage 
-git clone https://github.com/MValiukh/dnshistory.git && cd dnshistory
-chmod +x dnshistory.sh
-./dnshistory.sh DOMAINNAME APIKEY
-cat DOMAINNAME_history_output.json
+<br/>
+•	git clone https://github.com/MValiukh/dnshistory.git && cd dnshistory
+<br/>
+•	chmod +x dnshistory.sh
+<br/>
+•	./dnshistory.sh DOMAINNAME APIKEY
+<br/>
+•	cat DOMAINNAME_history_output.json
+<br/>
+
